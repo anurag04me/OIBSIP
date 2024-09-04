@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin: 0;
+    color: #333;
+}
+
+.subtitle {
+    font-size: 1.2em;
+    color: #777;
+    margin-top: 10px;
+}
+
+.bio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.bio img {
+    border-radius: 10px;
+    margin-bottom: 20px;
+    max-width: 100%;
+    height: auto;
+}
+
+.bio p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    text-align: center;
+    max-width: 600px;
+}
+
+.timeline h2, .quote h2 {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-size: 2em;
+    color: #333;
+}
+
+.timeline ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+.timeline li {
+    background-color: #f9f9f9;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-left: 5px solid #333;
+}
+
+.quote blockquote {
+    font-size: 1.5em;
+    font-style: italic;
+    color: #555;
+    text-align: center;
+    margin:
+}
